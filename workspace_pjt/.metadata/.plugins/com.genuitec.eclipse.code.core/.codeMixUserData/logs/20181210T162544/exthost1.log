@@ -1,0 +1,69 @@
+[2018-12-10 16:25:52.732] [exthost1] [info] extension host started
+[2018-12-10 16:25:52.754] [exthost1] [info] extension host started
+[2018-12-10 16:25:52.774] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-10 16:25:52.775] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\debug-auto-launch\out\extension
+[2018-12-10 16:25:52.787] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-10 16:25:52.787] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\emmet\dist\extension
+[2018-12-10 16:25:52.844] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-10 16:25:52.844] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-12-10 16:25:52.898] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-12-10 16:25:52.898] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-12-10 16:25:52.925] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-12-10 16:25:52.925] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2018-12-10 16:25:52.978] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-12-10 16:25:52.978] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2018-12-10 16:25:53.166] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-12-10 16:25:53.166] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2018-12-10 16:25:53.171] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-12-10 16:25:53.171] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\hookyqr.beautify-1.3.0\extension
+[2018-12-10 16:25:53.327] [exthost1] [info] eager extensions activated
+[2018-12-10 16:25:53.327] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-10 16:25:53.327] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2018-12-10 16:25:53.360] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-10 16:25:53.360] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\json-language-features\client\dist\jsonMain
+[2018-12-10 16:25:53.700] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-10 16:25:53.700] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\typescript-language-features\dist\extension
+[2018-12-10 16:25:54.054] [exthost1] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-10 16:25:54.054] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\grunt\out\main
+[2018-12-10 16:25:54.076] [exthost1] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-10 16:25:54.076] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\gulp\out\main
+[2018-12-10 16:25:54.094] [exthost1] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-10 16:25:54.094] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\jake\out\main
+[2018-12-10 16:25:54.110] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-10 16:25:54.110] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\npm\out\main
+[2018-12-10 18:45:06.968] [exthost1] [info] extension host started
+[2018-12-10 18:45:06.998] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-10 18:45:06.998] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\debug-auto-launch\out\extension
+[2018-12-10 18:45:07.022] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-10 18:45:07.022] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\emmet\dist\extension
+[2018-12-10 18:45:07.114] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-10 18:45:07.114] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-12-10 18:45:07.176] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-12-10 18:45:07.176] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-12-10 18:45:07.206] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-12-10 18:45:07.206] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2018-12-10 18:45:07.265] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-12-10 18:45:07.265] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2018-12-10 18:45:07.473] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-12-10 18:45:07.473] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2018-12-10 18:45:07.478] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-12-10 18:45:07.478] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\hookyqr.beautify-1.3.0\extension
+[2018-12-10 18:45:07.651] [exthost1] [info] eager extensions activated
+[2018-12-10 18:45:07.651] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-10 18:45:07.651] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2018-12-10 18:45:07.690] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-10 18:45:07.690] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\json-language-features\client\dist\jsonMain
+[2018-12-10 18:45:08.017] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-10 18:45:08.017] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\typescript-language-features\dist\extension
+[2018-12-10 18:45:08.341] [exthost1] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-10 18:45:08.341] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\grunt\out\main
+[2018-12-10 18:45:08.362] [exthost1] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-10 18:45:08.362] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\gulp\out\main
+[2018-12-10 18:45:08.379] [exthost1] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-10 18:45:08.379] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\jake\out\main
+[2018-12-10 18:45:08.399] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-10 18:45:08.399] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\npm\out\main
+[2018-12-10 19:09:48.763] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-12-10 19:09:48.764] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\Bethel_laptop\.codemix\engine\resources\app\extensions\html-language-features\client\dist\htmlMain
+[2018-12-10 19:09:49.314] [exthost1] [info] ExtensionService#_doActivateExtension mkaufman.HTMLHint {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-12-10 19:09:49.314] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\Bethel_laptop\.codemix\extensions\mkaufman.htmlhint-0.5.0\out\extension

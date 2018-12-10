@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "D:\\Spring\\SpringInfStudy\\workspace_pjt\\lec17pjt"
+    },
+    {
+      "path": "C:\\Users\\Bethel_laptop\\Desktop\\InfSpring자료\\lec17Pjt001"
+    },
+    {
+      "path": "C:\\Users\\Bethel_laptop\\Desktop\\InfSpring자료\\lec18Pjt001"
+    }
+  ],
+  "settings": {
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "htmlhint.options": {
+      "attr-value-double-quotes": true,
+      "attr-no-duplication": true,
+      "tag-pair": true,
+      "spec-char-escape": true,
+      "id-unique": false,
+      "src-not-empty": true,
+      "title-require": true
+    }
+  }
+}
